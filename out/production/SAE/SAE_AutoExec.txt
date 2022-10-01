@@ -1,0 +1,10 @@
+// This file shows what commands will be automatically executed on server start up.
+// Add commands here manually by editing this file, or by using "/autoexec" command in-game.
+// Every command should be written just like in-game (but without the slash) and should be under this text box on a new line.
+// If a command ends with "//" then it means that the command is flagged. Use /flagexeclist command to see all flags.
+plugins
+version
+addexec //banned
+reexec //banned
+restart //banned
+reload //banned

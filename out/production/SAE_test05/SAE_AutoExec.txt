@@ -1,0 +1,4 @@
+// This file shows what commands will be automatically executed on server start up.
+// Add commands here manually by editing this file, or by using /autoexec command in-game.
+// Every command should be written just like in-game (but without the slash), and they should be under this text box.
+plugins
