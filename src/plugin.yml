@@ -15,7 +15,7 @@ commands:
     description: "[SAE] Shows all commands in the file"
     usage: /listexec
   flagexec:
-    description: "[SAE] Give properties to commands"
+    description: "[SAE] Gives properties to commands"
     usage: /flagexec <command to flag> <flag>
   flagexeclist:
     description: "[SAE] Shows all available flags"
