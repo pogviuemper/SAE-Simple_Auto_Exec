@@ -1,7 +1,0 @@
-main: me.sjts98k.comex
-name: SimpleAutoExecuter
-version: alpha_v0.1
-commands:
-  autoexec:
-    description: specify what command to execute on world start
-    usage: /autoexec <command to execute>
